@@ -91,6 +91,9 @@ Open the .pbix file in Power BI Desktop.
 ✅ KPI Development
 ✅ Interactive Dashboard Design
 
+---
+
 
 👨‍💻 Author
+
 Yashwant Gupta
