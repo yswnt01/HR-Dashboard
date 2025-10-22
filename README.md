@@ -88,7 +88,6 @@ Open the .pbix file in Power BI Desktop.
 ✅ Power BI (Data Modeling, DAX, Power Query)
 ✅ Data Cleaning & Transformation
 ✅ Business Intelligence (BI) Design
-✅ KPI Development
 ✅ Interactive Dashboard Design
 
 ---
@@ -96,4 +95,6 @@ Open the .pbix file in Power BI Desktop.
 
 👨‍💻 Author
 
-Yashwant Gupta
+**Yashwant Gupta**
+📍 Data Analyst | Insight-Driven Storyteller
+🔗 LinkedIn | GitHub
