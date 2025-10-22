@@ -40,7 +40,7 @@ The **HR & Sales Insights Dashboard** delivers a holistic view of an organizatio
 
 This project goes beyond visuals — it’s built on a **strong data engineering foundation**.  
 
-### 🧹 **Power Query (ETL)**  
+### 🧹 **Power Query**  
 All raw datasets were cleaned and transformed using **Power Query Editor**:  
 - Standardized data types for consistency  
 - Split columns using various delimiters  
@@ -75,16 +75,14 @@ To make the dashboard dynamic and interactive:
 
 To explore the dashboard yourself:  
 
-1. **Clone** this repository to your computer
-   ```bash
-   git clone https://github.com/yswnt01/hr-sales-insights-dashboard.git
+1. **Clone** this repository to your computer  
 2.  Install Power BI Desktop (if not already).
 Open the .pbix file in Power BI Desktop.
 3. Enjoy a fully interactive experience with ready-to-use visuals and insights!
 
 ---
 
-##🧠 Skills Showcased
+##🧠 Skills Showcased  
 -✅ Power BI (Data Modeling, DAX, Power Query)  
 -✅ Data Cleaning & Transformation  
 -✅ Business Intelligence (BI) Design  
