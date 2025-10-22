@@ -85,16 +85,13 @@ Open the .pbix file in Power BI Desktop.
 ---
 
 ##🧠 Skills Showcased
--✅ Power BI (Data Modeling, DAX, Power Query)
--✅ Data Cleaning & Transformation
--✅ Business Intelligence (BI) Design
--✅ Interactive Dashboard Design
+-✅ Power BI (Data Modeling, DAX, Power Query)  
+-✅ Data Cleaning & Transformation  
+-✅ Business Intelligence (BI) Design  
+-✅ Interactive Dashboard Design  
 
 ---
 
 
-👨‍💻 Author
-
+##👨‍💻 Author  
 **Yashwant Gupta**
--📍 Data Analyst
--🔗 LinkedIn | GitHub
