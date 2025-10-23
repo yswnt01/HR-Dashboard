@@ -75,7 +75,9 @@ To make the dashboard dynamic and interactive:
 
 To explore the dashboard yourself:  
 
-1. **Clone** this repository to your computer  
+1. **Clone** this repository to your computer.  
+   ```bash
+   https://github.com/yswnt01/HR-Sales-Insights-Dashboard-Power-BI-Project/blob/main/HR%20Dashboard.pbix
 2.  Install Power BI Desktop (if not already).
 Open the .pbix file in Power BI Desktop.
 3. Enjoy a fully interactive experience with ready-to-use visuals and insights!
